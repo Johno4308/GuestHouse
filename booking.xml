@@ -1,0 +1,8 @@
+<bookinglist>
+ <booking type="Single">
+  <contact email="johnopersonal@gmail.com" telnumber="071-4785555" name="test"/>
+  <arrivaldate>2022/11/23</arrivaldate>
+  <departureDate>2022/11/30</departureDate>
+  <guest email="johnopersonal" telnumber="071-4785555" name="test"/>
+ </booking>
+</bookinglist>
